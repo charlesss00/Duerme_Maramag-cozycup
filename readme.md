@@ -26,3 +26,31 @@ Cozy Cup Cafe is a simple and welcoming website designed to showcase a café’s
 
 ## About the Authors
 This project was created by the Cozy Cup Cafe development team as part of a learning project focused on web design and Git version control.
+
+## About the Authors
+
+<img src="https://github.com/charlesss00.png" width="150" style="border-radius: 50%;">
+
+*Name:* Charles Darwin G. Duerme
+*Email:* charlesdarwinduerme@gmail.com
+
+<a href="https://www.facebook.com/charles.duerme">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="30">
+</a>
+<a href="https://github.com/charlesss00">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="30">
+</a>
+
+---
+
+<img src="https://github.com/zyamaramag.png" width="150" style="border-radius: 50%;">
+
+*Name:* Gadiel Zya T. Maramag
+*Email:* mgadielzya@gmail.com
+
+<a href="https://www.facebook.com/zyamaramag">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="30">
+</a>
+<a href="https://github.com/zyamaramag">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="30">
+</a>
